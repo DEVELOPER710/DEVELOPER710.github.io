@@ -9,4 +9,5 @@ He also knows how to code in HTML, CSS, JS and Python .
 He also does Bash Scripting on Linux Devices .
 
 `BYE for now !`
+
 `Hope we meet Soon !`
