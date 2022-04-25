@@ -2,7 +2,8 @@
 
 ### Introduction
 
-DEVELOPER710 is a programmer who codes in C (primarily)
+DEVELOPER710 is a programmer who codes primarily in C .
+He also knows how to code in HTML, CSS, JS and Python .
 
 ```markdown
 Syntax highlighted code block
