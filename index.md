@@ -6,8 +6,7 @@ DEVELOPER710 is a programmer who codes primarily in C .
 
 He also knows how to code in HTML, CSS, JS and Python .
 
-'hello'
+He also does Bash Scripting on Linux Devices .
 
-### Support
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`BYE for now !`
+`Hope we meet Soon !`
