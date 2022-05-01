@@ -1,6 +1,6 @@
 ## Welcome to DEVELOPER710's Home Page !
 
-![Logo](/docs/assets/logo.png)
+![Logo](/logo.png)
 
 ### Introduction
 
