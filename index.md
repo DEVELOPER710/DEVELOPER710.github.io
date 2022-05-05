@@ -1,6 +1,6 @@
-## Welcome to DEVELOPER710's Home Page !
+![Logo](/logo.ico) ## Welcome to DEVELOPER710's Home Page !
 
-![Logo](/logo.png)
+![Logo](/logo.ico)
 
 ### Introduction
 
