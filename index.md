@@ -10,7 +10,7 @@ He also knows how to code in HTML, CSS, JS and Python .
 
 He also does Bash Scripting on Linux Devices .
 
-Also Visit my Google Site [Markdown site][gsite]
+Also Visit my Google Site [over here][gsite] !
 
 `BYE for now !`
 
