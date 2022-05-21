@@ -10,8 +10,10 @@ He also knows how to code in HTML, CSS, JS and Python .
 
 He also does Bash Scripting on Linux Devices .
 
-Also Visit my Google Site ![here](https://sites.google.com/view/DEVELOPER710)
+Also Visit my Google Site [Markdown site][gsite]
 
 `BYE for now !`
 
 `Hope we meet Soon !`
+
+   [gsite]: <http://daringfireball.net/projects/markdown/>
