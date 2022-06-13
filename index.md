@@ -1,8 +1,3 @@
----
-title: Links
-filename: /pages/links.md
---- 
-
 ![Logo](/logo.ico)
 
 # Welcome to DEVELOPER710's Home Page !
