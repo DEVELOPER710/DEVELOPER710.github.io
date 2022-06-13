@@ -1,3 +1,9 @@
+---
+title: Links
+layout: template
+filename: links.md
+--- 
+
 ![Logo](/logo.ico)
 
 # Welcome to DEVELOPER710's Home Page !
