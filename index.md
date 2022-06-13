@@ -1,7 +1,7 @@
 ---
 title: Links
 layout: template
-filename: links.md
+filename: index.md
 --- 
 
 ![Logo](/logo.ico)
