@@ -1,6 +1,6 @@
 ---
 title: Links
-filename: index.md
+filename: /pages/links.md
 --- 
 
 ![Logo](/logo.ico)
