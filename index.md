@@ -1,6 +1,5 @@
 ---
 title: Links
-layout: template
 filename: index.md
 --- 
 
